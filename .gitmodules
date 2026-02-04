@@ -10,3 +10,6 @@
 [submodule "linux"]
 	path = linux
 	url = https://github.com/aj-austin/linux.git
+[submodule "deps/Hoard"]
+	path = deps/Hoard
+	url = https://github.com/emeryberger/Hoard.git
